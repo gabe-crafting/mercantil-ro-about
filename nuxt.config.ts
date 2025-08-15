@@ -14,6 +14,11 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
+  runtimeConfig: {
+    public: {
+      mercantilRoLink: process.env.MERCANTIL_RO_LINK
+    }
+  },
 
   compatibilityDate: '2024-07-11',
 
