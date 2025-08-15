@@ -25,8 +25,6 @@ useSeoMeta({
 
         <LazyStarsBg />
       </template>
-
-      <PromotionalVideo />
     </UPageHero>
 
     <UPageSection
