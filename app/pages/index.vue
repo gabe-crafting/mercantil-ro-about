@@ -40,7 +40,7 @@ useSeoMeta({
     </UPageSection>
 
     <UPageSection
-      v-if="page.features"
+      v-if="page?.features"
       :title="page.features.title"
       :description="page.features.description"
     >
