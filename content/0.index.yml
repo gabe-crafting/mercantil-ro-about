@@ -19,35 +19,7 @@ hero:
       variant: subtle
       to: https://github.com/nuxt-ui-pro/saas
       target: _blank
-sections:
-  - title: Enterprise-Grade Solutions
-    description: Transform your business with our comprehensive suite of tools. Built for scale, security, and seamless integration, our platform empowers teams to achieve more while maintaining complete control.
-    id: features
-    orientation: horizontal
-    features:
-      - name: Developer-First
-        description: Built by developers for developers, with extensive API documentation and flexible integration options.
-        icon: i-lucide-cog
-      - name: 99.9% Uptime
-        description: Enterprise-grade infrastructure with guaranteed reliability and automatic failover protection.
-        icon: i-lucide-check
-      - name: Bank-Level Security
-        description: SOC 2 Type II certified with end-to-end encryption and advanced threat detection.
-        icon: i-lucide-lock
-  - title: Optimized for Growth
-    description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
-    orientation: horizontal
-    reverse: true
-    features:
-      - name: Lightning Fast
-        description: Global CDN with sub-100ms latency and automatic performance optimization.
-        icon: i-lucide-rocket
-      - name: Predictable Pricing
-        description: Transparent, usage-based pricing with no hidden fees and volume discounts.
-        icon: i-lucide-circle-dollar-sign
-      - name: Infinite Scale
-        description: Auto-scaling architecture handles millions of requests without breaking a sweat.
-        icon: i-lucide-chart-bar
+
 features:
   title: Features That Set Us Apart
   description: Our platform combines enterprise-grade reliability with developer-friendly features, providing everything you need to build and scale your applications.
